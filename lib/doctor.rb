@@ -34,9 +34,9 @@ end
 #       doctor_who.new_appointment('Friday, January 32nd', hevydevy)
 
 #       expect(doctor_who.patients).to include(hevydevy)
-def genres
-    songs.map do |song|
-      song.genre
-    end
-  end
-end
+# def genres
+#     songs.map do |song|
+#       song.genre
+#     end
+#   end
+# end
